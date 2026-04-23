@@ -18,4 +18,4 @@ This is a simple Python-based Student Management System that allows users to man
    python student.py
 
 ## Author
-Your Name
+SYED MAHIN SABRY
